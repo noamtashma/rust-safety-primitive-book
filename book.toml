@@ -1,0 +1,6 @@
+[book]
+authors = ["Noam Ta Shma"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Rust safety primitive book"
